@@ -1,0 +1,7 @@
+streamlit
+agno
+groq
+google-search-results
+python-dotenv
+google-generativeai
+google-genai
